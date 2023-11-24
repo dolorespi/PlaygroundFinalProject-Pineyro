@@ -12,3 +12,4 @@ python manage.py runserver
 3- Ingresa a http://127.0.0.1:8000/AppBlog/ para explorar el sitio web.
 
 Link del video:
+https://drive.google.com/file/d/1cwGJuulmSZfqPT6JWJaRE9fLcr7F2Vt3/view?usp=drive_link
